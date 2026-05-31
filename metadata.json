@@ -1,0 +1,6 @@
+{
+  "name": "Vector DB Customer Support App",
+  "description": "An automated customer support assistant built on a LangChain-style RAG architecture with a custom vector database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
